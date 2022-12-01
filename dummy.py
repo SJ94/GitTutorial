@@ -1,2 +1,2 @@
 print("Hello this is the Git Exercise!")
-# random comment
+# random comment 2
